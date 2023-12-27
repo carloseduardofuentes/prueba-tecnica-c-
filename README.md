@@ -5,3 +5,4 @@ Prueba técnica para demostrar conocimiento de lógica, estructura de datos y ex
 ![Palabras repetidas](https://github.com/carloseduardofuentes/prueba-tecnica-c-sharp/assets/102506128/31060041-9db8-4e63-98fa-ee10fd1e66fb)
 ![Convertir numeros a letras](https://github.com/carloseduardofuentes/prueba-tecnica-c-sharp/assets/102506128/4eee9826-3127-49cd-9abd-16e2e0b21c62)
 ![Sumar numeros de un array con LAMBDA](https://github.com/carloseduardofuentes/prueba-tecnica-c-sharp/assets/102506128/932448d4-a703-4540-a5ec-013f8450a257)
+![Convertir a expresión postfijo](https://github.com/carloseduardofuentes/prueba-tecnica-c-sharp/assets/102506128/e2911152-3a6a-468d-b81e-b31d24694ee3)
